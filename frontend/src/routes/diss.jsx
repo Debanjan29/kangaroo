@@ -26,14 +26,17 @@ export default function Contact() {
       <div class="a1">
       <h1><div className="a4">{disease.name}</div></h1>
       <div class="a5">{disease.about}</div>
+
         <div className="container">
+        
+        <h2><div className="a3">Symtoms</div></h2>
+        {SymtomRender}
         
         <h2><div className="a3">Precautions: </div></h2>
         
         {precautionsRender}
 
-        <h3><div className="a3">Symtoms</div></h3>
-        {SymtomRender}
+        
       </div>
       </div>
     {/* </div> */}
