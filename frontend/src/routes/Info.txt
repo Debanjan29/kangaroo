@@ -1,0 +1,8 @@
+Diabetes:
+HEADING h1
+SYMTOMS
+.
+.
+.
+<LI>
+PRECAUTIONS
